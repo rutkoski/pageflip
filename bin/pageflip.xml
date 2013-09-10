@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<book pageWidth="420" pageHeight="600">
+	<pages>
+		<page url="pages/page (1).jpg" scaleMode="stretch" />
+		<page url="pages/page (2).jpg" scaleMode="stretch" />
+		<page url="pages/page (3).jpg" scaleMode="stretch" />
+		<page url="pages/page (4).jpg" scaleMode="stretch" />
+		<page url="pages/page (5).jpg" scaleMode="stretch" />
+	</pages>
+</book>
